@@ -617,6 +617,31 @@
     </div>
 </section>
 
+<section class="py-10 bg-black text-white">
+    <div class="container mx-auto">
+        <h2 class="text-2xl font-bold text-center p-3">Voor wie?</h2>
+
+        <div class="flex flex-wrap justify-center w-2/3 m-auto">
+            <div class="w-full md:w-1/4 p-4 text-center">
+                <img src="images/who/dino.png" class="w-11 m-auto invert" alt="dino">
+                <h3 class="text-xl font-semibold">All creatures welcome</h3>
+            </div>
+            <div class="w-full md:w-1/4 p-4 text-center">
+                <img src="images/who/skill.png" class="w-11 m-auto invert" alt="skill">
+                <h3 class="text-xl font-semibold">beginnend en gevorderd</h3>
+            </div>
+            <div class="w-full md:w-1/4 p-4 text-center">
+                <img src="images/who/age.png" class="w-11 m-auto invert" alt="age">
+                <h3 class="text-xl font-semibold">12 - 20 jaar</h3>
+            </div>
+            <div class="w-full md:w-1/4 p-4 text-center">
+                <img src="images/who/microscope.png" class="w-11 m-auto invert" alt="microscope">
+                <h3 class="text-xl font-semibold">Een goeie dosis nieuwsgierigheid</h3>
+            </div>
+        </div>
+    </div>
+</section>
+
 <section class="py-10 bg-white">
     <div class="container mx-auto">
         <h2 class="text-2xl font-bold text-center p-3">Wat ga je bij ons leren bouwen?</h2>
